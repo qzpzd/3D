@@ -1,0 +1,21 @@
+{
+  "roi_min": [-2.0, -2.0, -0.1],
+  "roi_max": [2.0, 2.0, 1.0],
+  "voxel_size": 0.012,
+  "sor_k": 20,
+  "sor_std_ratio": 2.5,
+  "radius_nb_points": 5,
+  "radius": 0.04,
+  "ransac_distance": 0.006,
+  "ransac_iterations": 500,
+  "cluster_eps": 0.035,
+  "cluster_min_samples": 8,
+  "cluster_min_points": 40,
+  "target_xy": [0.42, 0.0],
+  "normal_k": 24,
+  "edge_quantile": 0.9,
+  "boundary_angle_deg": 120.0,
+  "obb_margin": 0.015,
+  "random_seed": 7
+}
+
